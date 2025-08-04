@@ -80,3 +80,7 @@ volumes:
   os_data:
   graylog_data:
   graylog_journal:
+
+
+#.env
+#OPENSEARCH_INITIAL_ADMIN_PASSWORD, GRAYLOG_PASSWORD_SECRET, GRAYLOG_ROOT_PASSWORD_SHA2
